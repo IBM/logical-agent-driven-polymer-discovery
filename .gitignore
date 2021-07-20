@@ -1,0 +1,5 @@
+*.npy
+*.json
+*.DS_Store
+*.pyc
+data/polymerDiscovery
